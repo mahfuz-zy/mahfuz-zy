@@ -1,6 +1,6 @@
  👋  Hi, I’m @mahfuz-zy <br>
- 👀  I’m interested in data field <br>
- 🌱  I’m currently learning data analyst, data engineer and data scientic <br>
+ 👀  I’m Data Enthusiast
+ 🌱  I’m currently learning data analyst and data engineer <br>
  📫  How to reach me muhammadmahfuz.1996@gmail.com
 
 <!---
