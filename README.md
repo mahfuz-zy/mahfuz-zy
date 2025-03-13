@@ -1,5 +1,5 @@
  👋  Hi, I’m @mahfuz-zy <br>
- 👀  I’m Data Enthusiast
+ 👀  I’m Data Enthusiast <br>
  🌱  I’m currently learning data analyst and data engineer <br>
  📫  How to reach me muhammadmahfuz.1996@gmail.com
 
